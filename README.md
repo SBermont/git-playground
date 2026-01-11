@@ -1,1 +1,2 @@
-"Hello everyone!" 
+Hello Git
+This is my second version.
