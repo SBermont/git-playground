@@ -4,4 +4,5 @@ Main branch note.
 This is an experiment branch.
 Sprawdzam zmianę edytora tekstu :)
 Added ff_test
-THIS LINE SHOULD NOT EXIST
+THIS LINE SHOULD YES EXIST
+THIS SHOULD BE REVERTED
