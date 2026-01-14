@@ -7,5 +7,4 @@ Added ff_test
 THIS LINE SHOULD NOT EXIST
 Zdalna zmiana.
 Zmiana na samej stronie!
-
-
+This line was added on feature branch.
